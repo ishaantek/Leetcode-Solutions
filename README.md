@@ -1,6 +1,5 @@
 # LeetCode Solutions
 
-## Description
 This repository contains my solutions to various LeetCode problems. Each solution is implemented in Python and has a video tutorial attached. The problems range from easy to hard and cover a variety of algorithms and data structures.
 
 ## Repository Structure
